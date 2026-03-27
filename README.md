@@ -1,7 +1,7 @@
-### Final year PhD student:
+### Research Fellow @ [LoGaCulture](logaculture.eu):
 - interested in different applications of VR/AR/MR, and game design;
-- currently finishing my PhD in multi-modal multi-player VR games;
-- more info about my projects on my website, https://ioiototm.github.io.
+- working with locative games in the LoGaCulture project
+- more info about my projects on my website, [ioioto.me](ioioto.me)
 
 <!--
 **IoIoToTM/IoIoToTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
